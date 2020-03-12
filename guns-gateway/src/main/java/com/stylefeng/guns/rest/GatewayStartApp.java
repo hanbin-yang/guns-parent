@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GatewayStartApp {
 
     public static void main(String[] args) {
+        //hasdyf
         SpringApplication.run(GatewayStartApp.class, args);
     }
 }
