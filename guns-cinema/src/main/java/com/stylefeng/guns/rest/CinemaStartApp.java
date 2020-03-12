@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CinemaStartApp {
 
     public static void main(String[] args) {
-        //哈哈哈哈
+        //哈哈哈哈a
         SpringApplication.run(CinemaStartApp.class, args);
     }
 }
